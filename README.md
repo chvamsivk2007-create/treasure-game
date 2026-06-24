@@ -1,3 +1,6 @@
+## Description
+This project demonstrates the use of conditional logic, user input, and branching paths in Python.  
+Developed as part of Angela Yu’s 100 Days of Code Bootcamp, it’s a simple but engaging way to practice programming fundamentals.
 print(r'''
 *******************************************************************************
           |                   |                  |                     |
